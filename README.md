@@ -10,3 +10,33 @@ All of this could have been built into the switch and I probably have an unneces
 
 ## Physical Switch
 ### Parts List
+* Poplar
+* Copper bars
+* Copper bars
+* Copper screws
+* Copper screws
+* Misc screws for mounting to wall
+* 3/8" wooden buttons
+* Bolt and nut for mounting handle
+* Handle
+* Cloth-wrapped wiring
+* Speaker
+* LRA
+* Aviation plug (4 pin)
+* 1/8" stereo headphone plug
+
+## Connector Box
+### Parts List
+* Class-D amplifier
+* Haptic driver
+* Green LED
+* Connectors
+* 2 - 1/8" headphone jacks
+* Aviation jack (4 pin)
+* Aviation jack (6 pin)
+* 2.1mm jack
+* LED mount
+* 5v DC power supply with 2.1mm plug
+* 1/8" headphone cable from Pi to connector box
+* 2 - aviation plugs (6 pin)
+* Ethernet cable from Pi to connector box
